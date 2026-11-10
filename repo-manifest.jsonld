@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/mauricio/postgresql-async/commit/5716ac43818b6be0dc4fcc2b2655dde3411cdbe0",
       "git:hexsha": "5716ac43818b6be0dc4fcc2b2655dde3411cdbe0",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-10T06:57:40.991286+00:00"
     },
     {
       "@id": "https://repolex.ai/r/mauricio/postgresql-async/commit/b62199294a01f6c350835b9b22fbb4954bbf3195",
